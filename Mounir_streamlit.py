@@ -1,4 +1,4 @@
-# Mounir BENYAMINA / mounir.benyamina@edu.ece.fr / Student ID: 932356486
+# Mounir BENYAMINA
 
 ### Commands to launch the app:
 # streamlit run Mounir_streamlit.py 
@@ -53,8 +53,7 @@ if page == "Introduction":
 
     st.markdown("""### Student Information:
     Name: Mounir Benyamina  
-    Student ID: 932356486  
-    Mail: mounir.benyamina@edu.ece.fr
+    Student ID: ********  
     """)
 
 elif page == "Data exploration":
