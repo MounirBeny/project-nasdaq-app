@@ -1,6 +1,6 @@
 # project-nasdaq-app - Stock Visualization Streamlit App
 
-This project is a **Streamlit** web application designed to visualize historical stock data for major publicly traded companies such as Apple (AAPL), Microsoft (MSFT), and Google (GOOGL).
+  This project is a **Streamlit** web application designed to visualize historical stock data for major publicly traded companies such as Apple (AAPL), Microsoft (MSFT), and Google (GOOGL).
 
 ## 🚀 Features
 
